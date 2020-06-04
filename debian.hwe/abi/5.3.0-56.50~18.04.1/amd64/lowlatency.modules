@@ -689,6 +689,7 @@ cdc_subset
 cdns-csi2rx
 cdns-csi2tx
 cdns-pltfrm
+cec-gpio
 ceph
 cfag12864b
 cfag12864bfb
@@ -5273,6 +5274,7 @@ wimax
 winbond-840
 winbond-cir
 wire
+wireguard
 wishbone-serial
 wl1251
 wl1251_sdio
