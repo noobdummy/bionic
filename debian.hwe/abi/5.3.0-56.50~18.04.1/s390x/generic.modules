@@ -852,6 +852,7 @@ vsock_diag
 vsockmon
 vx855
 vxlan
+wireguard
 wp512
 x_tables
 xcbc
